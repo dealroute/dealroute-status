@@ -22,6 +22,7 @@ sites:
       - 401
 
 status-website:
+  baseUrl: /
   cname: status.dealroute.ai
   name: DealRoute Status
   theme: dark
