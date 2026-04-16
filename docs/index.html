@@ -109,7 +109,7 @@ function render(results) {
     html += '<span class="badge ' + cls + '"><span class="dot"></span>' + label + '</span></div></div>';
   }
   html += '</div>';
-  if (updatedStr) html += '<div class="updated">Last checked: ' + updatedStr + '</div>';
+  html += '<div class="updated">Checked every 5 minutes &middot; Page loaded: ' + new Date().toLocaleString() + '</div>';
   document.getElementById('content').innerHTML = html;
 }
 
