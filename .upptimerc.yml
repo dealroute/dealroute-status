@@ -15,14 +15,11 @@ sites:
   - name: Database (Supabase)
     url: https://znidwphgmqacsmippeaw.supabase.co/rest/v1/
     method: GET
-    headers:
-      - "apikey: $SUPABASE_ANON_KEY"
     expectedStatusCodes:
       - 200
       - 401
 
 status-website:
-  baseUrl: /
   cname: status.dealroute.ai
   name: DealRoute Status
   theme: dark
