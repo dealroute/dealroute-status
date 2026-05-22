@@ -40,7 +40,7 @@
     "url": "https://n8n.ipistrategicenterprises.com",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.ipistrategicenterprises.com.ico",
     "slug": "orchestration-n8n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 213,
-    "timeWeek": 240,
+    "timeWeek": 232,
     "timeMonth": 234,
     "timeYear": 251,
     "dailyMinutesDown": {}
