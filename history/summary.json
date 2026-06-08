@@ -13,7 +13,7 @@
     "time": 392,
     "timeDay": 335,
     "timeWeek": 388,
-    "timeMonth": 394,
+    "timeMonth": 390,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 480,
     "timeDay": 422,
     "timeWeek": 533,
-    "timeMonth": 501,
+    "timeMonth": 504,
     "timeYear": 480,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://n8n.ipistrategicenterprises.com",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.ipistrategicenterprises.com.ico",
     "slug": "orchestration-n8n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 199,
     "timeDay": 1454,
     "timeWeek": 358,
-    "timeMonth": 212,
+    "timeMonth": 214,
     "timeYear": 199,
     "dailyMinutesDown": {}
   }
